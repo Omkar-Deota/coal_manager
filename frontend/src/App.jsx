@@ -1,4 +1,4 @@
-import Login from "./components/LoginN"
+// import Login from "./components/LoginN"
 import Register from "./components/Register"
 import User_register from "./components/User_register"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
